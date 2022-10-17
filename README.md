@@ -6,7 +6,7 @@ Public data and replication of the paper: *Automated vs. Manual Case Investigati
 
 1. [**`panel_data.csv`**](https://github.com/reglab/cict-stepped-wedge-replication/blob/main/panel_data.csv): Aggregate data from the study used made available for partial replication
 2. [**`Figure_Replication.ipynb`**](https://github.com/reglab/cict-stepped-wedge-replication/blob/main/Figure_Replication.ipynb): A Jupyter notebook replicating Figures 2, 3, 4 (difference-in-differences time series plots)
-3. [**`Figure_Replication.ipynb`**](https://github.com/reglab/cict-stepped-wedge-replication/blob/main/Regression_Replication.ipynb): Partial replication of the regression analysis presented in Table 3 using panel data instead of individual level data
+3. [**`Regression_Replication.ipynb`**](https://github.com/reglab/cict-stepped-wedge-replication/blob/main/Regression_Replication.ipynb): Partial replication of the regression analysis presented in Table 3 using panel data instead of individual level data
 4. [**`Stepped Wedge CICT Protocol.pdf`**](https://github.com/reglab/cict-stepped-wedge-replication/blob/main/Stepped%20Wedge%20CICT%20Protocol.pdf): The study protocol  
 
 ## Data Structure
